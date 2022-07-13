@@ -1,0 +1,8 @@
+# Missile parameters in the following order from left to right:
+# Missile ID
+# Initial position in X0, Y0, Z0 coordinate (m)
+# Initial mass and landing mass: m0 and mf (kg)
+# Initial thrust magnitude Thmag0 (N) 
+# Direction angle (degree): theta, phi
+# Burn time Tburn (s)	
+1	15000	0	0	700	90	100000.00	89	52.00	11.11

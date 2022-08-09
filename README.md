@@ -19,6 +19,7 @@ MATLAB2016以上。
 
 运行文件夹PDQN_161中的PDQN160.m函数，但是需要修改报错路径和创建相应文件夹。
 ## 4、运行结果
-https://github.com/ThewildBoar2020/RLTA2020/blob/main/images/04.png
+   <span style="color:#333333">![alt png](../images/04.png)
+:stuck_out_tongue_winking_eye:
 
 

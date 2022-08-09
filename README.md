@@ -19,6 +19,6 @@ MATLAB2016以上。
 
 运行文件夹PDQN_161中的PDQN160.m函数，但是需要修改报错路径和创建相应文件夹。
 ## 4、运行结果
-![](https://s3.bmp.ovh/imgs/2022/08/09/fc9d0ef75d5e24e8.jpg)
+https://github.com/ThewildBoar2020/RLTA2020/blob/main/images/04.png
 
 
